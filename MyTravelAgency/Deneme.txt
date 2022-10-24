@@ -1,3 +1,5 @@
 ﻿bu bir denemedir 
 
 Ya bu niye böle oluyor
+
+Bu değişikliği de uzayda yaptım
